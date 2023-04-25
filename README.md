@@ -20,5 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=frugencefidel&show_icons=true&locale=en&count_private=true&theme=radical" alt="frugencefidel" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=frugencefidel&count_private=true&theme=radical" alt="frugencefidel" /></p>
-
