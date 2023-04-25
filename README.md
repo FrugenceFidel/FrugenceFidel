@@ -1,9 +1,7 @@
-<h1 align="center">I'm Frugence Fidel, React developer living in Tanzania 🇹🇿.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frugencefidel&label=Profile%20views&color=0e75b6&style=flat" alt="frugencefidel" /> </p>
+<h1 align="center">I'm Frugence Fidel</h1>
+<h3 align="center">React developer living in Tanzania 🇹🇿.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frugencefidel" alt="frugencefidel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/frugencefidel" target="blank"><img src="https://img.shields.io/twitter/follow/frugencefidel?logo=twitter&style=for-the-badge" alt="frugencefidel" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.frugencefidel.com/](https://www.frugencefidel.com/)
 
@@ -17,7 +15,7 @@
 <a href="https://twitter.com/frugencefidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frugencefidel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/frugencefidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frugencefidel" height="30" width="40" /></a>
 <a href="https://instagram.com/frugencefidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frugencefidel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/frugencefidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frugencefidel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@frugencefidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@frugencefidel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
